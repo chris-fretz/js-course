@@ -14,3 +14,5 @@ console.log(markHigherBMI);
 */
 
 // Coding Challenge #2
+
+// New test comment
